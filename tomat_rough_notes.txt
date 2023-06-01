@@ -1,0 +1,18 @@
+tomat_rough_notes.txt
+
+I'll latex this up later
+
+tomatos (except for cherokee purple which we couldn't find) planted on May 31
+
+setting up the google sheets for data collection (can be exported to csv I think?)
+	one sheet for each plant
+
+thinking of which data to collect
+	height??
+	blossoms at different stages
+		UCDavis development chart: https://labs.plb.ucdavis.edu/rost/tomato/Reproductive/flrdev.html
+		blossoms (mutation research, use just part A): https://doi.org/10.1242/dev.125.1.107
+		stylized diagram from agronomy paper: https://www.mdpi.com/2073-4395/12/2/518
+	number harvested
+	total weight harvested
+		maybe for the cherokee purple weigh each tomato? (will need a new spreadsheet)
