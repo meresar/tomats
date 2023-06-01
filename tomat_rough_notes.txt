@@ -1,6 +1,6 @@
 tomat_rough_notes.txt
 
-I'll latex this up later
+I'll make this into nice markdown for the readme later
 
 tomatos (except for cherokee purple which we couldn't find) planted on May 31
 
