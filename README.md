@@ -7,9 +7,9 @@ will be collecting data this summer
   
 looking for measurements to take, I looked at these sources, which are also the sources for the images
 
-	-https://labs.plb.ucdavis.edu/rost/tomato/Reproductive/flrdev.html
-		-blossom_development_UCDavis.gif
-	-https://doi.org/10.1242/dev.125.1.107
-		-blossom_development_picture.png
-	-https://www.mdpi.com/2073-4395/12/2/518
-		-agronomy_stylized_blossom.png
+* https://labs.plb.ucdavis.edu/rost/tomato/Reproductive/flrdev.html
+	* blossom_development_UCDavis.gif
+* https://doi.org/10.1242/dev.125.1.107
+	* blossom_development_picture.png
+* https://www.mdpi.com/2073-4395/12/2/518
+	* agronomy_stylized_blossom.png
